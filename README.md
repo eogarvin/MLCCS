@@ -25,7 +25,7 @@ Documentation is not yet available for this code, but the code has many comments
 
 ## 🤖 Authors and implementation of the codes
 
-All codes have been written by Emily Omaya Garvin, with additional contributions from Markus Bonse. The codes have been successfully installed, investigated and tested by Jonas Spiller.
+All codes have been written by Emily Garvin, with additional contributions from Markus Bonse. The codes have been successfully installed, investigated and tested by Jonas Spiller.
 
 ## 📚 Citing this work
 
