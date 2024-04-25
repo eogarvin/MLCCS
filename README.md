@@ -44,14 +44,20 @@ https://eogarvin.github.io/
 
 
 
+
+
 ## 📒 The codes we used
 
-- We made use of petitRADTRANS to prepare the data and templates: 
+- We made use of petitRADTRANS to prepare the data and templates:
+
   https://gitlab.com/mauricemolli/petitRADTRANS
+  
   https://petitradtrans.readthedocs.io/en/latest/content/installation.html
 
 - We borrowed and adapted the cross-correlation function (crosscorrRV) codes from PyAstronomy
+
   https://github.com/sczesla/PyAstronomy
+
   https://pyastronomy.readthedocs.io/en/latest/pyaslDoc/aslDoc/crosscorr.html
 
 - This ReadMe template was inspired by the awesome pieces of work by T. D. Gebhard (https://github.com/timothygebhard)
