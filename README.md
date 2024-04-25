@@ -1,9 +1,5 @@
 
-<h1 align="center">🪐 MLCCS 🪐</h1>
-<p align="center">
-<img src="https://img.shields.io/badge/python-≥3.10-blue" alt="Python >= 3.10">
-<a href="https://github.com/psf/black"><img src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Code style: black"></a> 
-</p>
+<h2 align="center">🪐 MLCCS 🪐</h2>
 
 This public repository shares the MLCCS codes from the research paper: 
 
