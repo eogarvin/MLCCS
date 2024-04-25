@@ -27,7 +27,7 @@ Documentation is not yet available for this code, but the code has many comments
 
 All codes have been written by Emily Garvin, with additional contributions from Markus Bonse. The codes have been successfully installed, investigated and tested by Jonas Spiller.
 
-## 📚 Citing this work
+## 📚 Citing this code
 
 If you use the codes or part of them for your work, we kindly request you to cite: 
 
@@ -36,7 +36,7 @@ Cross-Correlated Spectra with Convolutional Neural Networks." (Submitted at A&A)
 
 ## 🤓 Contact and Support
 
-Feel free to contact Emily O. Garvin for support with data processing, codes installation, or access to training and test data.
+Feel free to contact Emily O. Garvin for support with data processing, codes installation, or access to training and test data sets.
 
 egarvin[at]phys.ethz.ch
 https://eogarvin.github.io/
@@ -52,12 +52,10 @@ https://eogarvin.github.io/
 
   https://gitlab.com/mauricemolli/petitRADTRANS
   
-  https://petitradtrans.readthedocs.io/en/latest/content/installation.html
+  https://petitradtrans.readthedocs.io
 
 - We borrowed and adapted the cross-correlation function (crosscorrRV) codes from PyAstronomy
 
-  https://github.com/sczesla/PyAstronomy
+  https://pyastronomy.readthedocs.io
 
-  https://pyastronomy.readthedocs.io/en/latest/pyaslDoc/aslDoc/crosscorr.html
-
-- This ReadMe template was inspired by the awesome pieces of work by T. D. Gebhard (https://github.com/timothygebhard)
+- This ReadMe template was inspired by the awesome pieces of work by T. D. Gebhard (github.com/timothygebhard)
