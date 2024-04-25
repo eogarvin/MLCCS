@@ -34,6 +34,7 @@ If you use the codes or part of them for your work, we kindly request you to cit
 E. O. Garvin et al. (in prep). "Machine Learning for Exoplanet Detection in High-Contrast Spectroscopy: Revealing Exoplanets by Leveraging Hidden Molecular Signatures in
 Cross-Correlated Spectra with Convolutional Neural Networks." (Submitted at A&A).  
 
+
 ## 🤓 Contact and Support
 
 Feel free to contact Emily O. Garvin for support with data processing, codes installation, or access to training and test data.
@@ -41,3 +42,16 @@ Feel free to contact Emily O. Garvin for support with data processing, codes ins
 egarvin[at]phys.ethz.ch
 https://eogarvin.github.io/
 
+
+
+## 📚 The codes we used
+
+- We made use of petitRADTRANS to prepare the data and templates: 
+  https://gitlab.com/mauricemolli/petitRADTRANS
+  https://petitradtrans.readthedocs.io/en/latest/content/installation.html
+
+- We borrowed and adapted the cross-correlation function (crosscorrRV) codes from PyAstronomy
+  https://github.com/sczesla/PyAstronomy
+  https://pyastronomy.readthedocs.io/en/latest/pyaslDoc/aslDoc/crosscorr.html
+
+- This ReadMe template was inspired by the awesome pieces of work by T. D. Gebhard (https://github.com/timothygebhard)
