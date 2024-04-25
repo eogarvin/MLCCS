@@ -7,6 +7,7 @@
 </p>
 
 This public repository shares the MLCCS codes from the research paper: 
+
 **E. O. Garvin et al. (in prep):** "Machine Learning for Exoplanet Detection in High-Contrast Spectroscopy: Revealing Exoplanets by Leveraging Hidden Molecular Signatures in
 Cross-Correlated Spectra with Convolutional Neural Networks." (Submitted at A&A).
 
