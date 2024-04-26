@@ -4,8 +4,6 @@ import numpy as np
 import pandas as pd
 import sys
 from itertools import compress
-#sys.path.append(code_path + "ml_spectroscopy/ml_spectroscopy")
-#sys.path.append("C:/Users/emily/Documents/ML_spectroscopy_thesis/50_code/ml_spectroscopy")
 from ml_spectroscopy.DataPreprocessing_utils import split_dataframe
 from ml_spectroscopy.config import path_init
 

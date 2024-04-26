@@ -17,11 +17,10 @@ from sklearn.metrics import confusion_matrix
 import pickle
 import time
 import gc
-# sys.path.append(code_path + "ml_spectroscopy/ml_spectroscopy")
-# sys.path.append("C:/Users/emily/Documents/ML_spectroscopy_thesis/50_code/ml_spectroscopy")
 from ml_spectroscopy.config import path_init, global_settings
-from ml_spectroscopy.utility_functions import test_onCCF_rv0_SNR, test_onCCF_rv0_SNR_autocorrel, t_test_onCCF_max, t_test_onCCF_rv0, t_test_onCCF_rv0_onesided
-from ml_spectroscopy.modelsML_utils import RandomForest_model, DNN_model, PCT_model, grid_search, ElasticNet_model, ElasticNet_model2, Ridge_model, Lasso_model, SNR_grid_search, SNR_auto_grid_search, GradientTreeBoosting_model, XGBRandomForest_model, CNN1_model, CNN2_model
+from ml_spectroscopy.utility_functions import test_onCCF_rv0_SNR, test_onCCF_rv0_SNR_autocorrel
+from ml_spectroscopy.modelsML_utils import RandomForest_model, DNN_model, PCT_model, ElasticNet_model, ElasticNet_model2, Ridge_model, Lasso_model, SNR_grid_search, SNR_auto_grid_search, GradientTreeBoosting_model, \
+    CNN1_model, CNN2_model
 from ml_spectroscopy.hyperparam_tuning_GA import genetic_algorithm, decode
 from keras.utils.np_utils import to_categorical
 

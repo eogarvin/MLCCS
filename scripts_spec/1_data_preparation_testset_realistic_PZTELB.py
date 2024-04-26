@@ -1,7 +1,5 @@
 
-#sys.path.append(code_path + "ml_spectroscopy/ml_spectroscopy")
-#sys.path.append("C:/Users/emily/Documents/ML_spectroscopy_thesis/50_code/ml_spectroscopy")
-
+#
 from ml_spectroscopy.config import path_init
 import os
 import numpy as np

@@ -20,9 +20,6 @@ import pandas as pd
 import sys, os
 import random
 from itertools import compress
-
-# sys.path.append(code_path + "ml_spectroscopy/ml_spectroscopy")
-# sys.path.append("C:/Users/emily/Documents/ML_spectroscopy_thesis/50_code/ml_spectroscopy")
 from ml_spectroscopy.DataPreprocessing_utils import spectrum_dataset_4ML_norep, spot_planet_incube, planetSignal_preprocessing, templates_preprocessing, trim_data_WR, padd_data_WR
 from ml_spectroscopy.config import path_init
 

@@ -13,8 +13,6 @@ import pandas as pd
 import numpy as np
 import sys, os, pickle, time, gc
 from sklearn.metrics import confusion_matrix
-# sys.path.append(code_path + "ml_spectroscopy/ml_spectroscopy")
-# sys.path.append("C:/Users/emily/Documents/ML_spectroscopy_thesis/50_code/ml_spectroscopy")
 from ml_spectroscopy.config import path_init, global_settings
 from ml_spectroscopy.utility_functions import test_onCCF_rv0_SNR
 from ml_spectroscopy.modelsML_utils import  PCT_model,  SNR_grid_search, CNN1_model, CNN2_model

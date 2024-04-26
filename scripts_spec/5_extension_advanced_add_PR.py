@@ -11,38 +11,17 @@ This script intends to plot results for several experiments conducted on differe
 
 
 ## LIBRARIES
-import gc
-
 import pandas as pd
 import numpy as np
-import seaborn as sns
-from functools import partial
-from itertools import chain, repeat
-from matplotlib import pyplot
-from matplotlib.lines import Line2D
 import matplotlib.pyplot as plt
 from astropy.io import fits
-from sklearn.datasets import make_classification
-from sklearn.linear_model import LogisticRegression
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import roc_curve, roc_auc_score, confusion_matrix, f1_score, precision_recall_curve, auc
-from multiprocessing import Pool, freeze_support
-import concurrent.futures
 import random
-import time
 import pickle
 import os
 import copy
-import sys
 from sklearn import metrics
-#sys.path.append(code_path + "ml_spectroscopy/ml_spectroscopy")
-#sys.path.append("C:/Users/emily/Documents/ML_spectroscopy_thesis/50_code/ml_spectroscopy")
-
-from ml_spectroscopy.crosscorrNormVec import crosscorrRV_vec
 from ml_spectroscopy.config import path_init
 from ml_spectroscopy.DataPreprocessing_utils import image_reconstruct, image_deconstruct
-from ml_spectroscopy.plottings_utils_results import ROC_curve_customplot, ROC_curve_saveplt ,PR_curve_customplot, PR_curve_saveplt
-from ml_spectroscopy.utility_functions import flatten, Average, grid_search0
 
 ## SET SEED FOR REPRODUCIBILITY
 random.seed(100)

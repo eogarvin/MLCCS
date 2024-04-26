@@ -9,47 +9,25 @@ results
 
 ## LIBRARIES
 
-import pandas as pd
-import numpy as np
 import random
-import sys
 import pickle
-import os
-from matplotlib.lines import Line2D
 
 # sys.path.append(code_path + "ml_spectroscopy/ml_spectroscopy")
 # sys.path.append("C:/Users/emily/Documents/ML_spectroscopy_thesis/50_code/ml_spectroscopy")
-from ml_spectroscopy.crosscorrNormVec import crosscorrRV_vec
 from ml_spectroscopy.config import path_init
-from ml_spectroscopy.utility_functions import flatten, Average
+from ml_spectroscopy.utility_functions import Average
 
 import matplotlib.pyplot as plt
-import multiprocessing
-from functools import partial
-from itertools import repeat
-from multiprocessing import Pool, freeze_support
-import time
-import concurrent.futures
-import pandas as pd
 
 # from ml_spectroscopy.plottings_utils_results import ROC_curve_plot, ROC_curve_saveplt, PR_curve_plot, PR_curve_saveplt
 
-from sklearn.datasets import make_classification
-from sklearn.linear_model import LogisticRegression
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import roc_curve
 from sklearn.metrics import roc_auc_score
-from matplotlib import pyplot
 import numpy as np
 import pandas as pd
 
-from sklearn.datasets import make_classification
-from sklearn.linear_model import LogisticRegression
-from sklearn.model_selection import train_test_split
 from sklearn.metrics import precision_recall_curve
 from sklearn.metrics import f1_score
 from sklearn.metrics import auc
-from matplotlib import pyplot
 
 ## ACTIVE SUBDIR
 subdir = path_init()
