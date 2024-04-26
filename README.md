@@ -69,4 +69,4 @@ https://eogarvin.github.io/
 
 
 
-We have a companion paper (Nath+2024), who also aims to seach for planets by leveraging cross-corrlelation spectroscopy, but they focus on detection in the spatial dimension. Our codes live in different spaces and are independent from eachother, but our papers are tied as companions. You can check out their work: https://github.com/digirak/NathRanga2024
+We have a companion paper (Nath+2024), who also aims to seach for planets by leveraging cross-correlation spectroscopy, but they focus on detection in the spatial dimension. Our codes live in different spaces and are independent from eachother, but our papers are tied as companions. You can check out their work: https://github.com/digirak/NathRanga2024
