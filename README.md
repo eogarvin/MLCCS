@@ -1,5 +1,5 @@
 
-<h2 align="center">🪐 MLCCS 🪐</h2>
+<h1 align="center">🪐 MLCCS 🪐</h1>
 
 This public repository shares the MLCCS codes from the research paper: 
 
