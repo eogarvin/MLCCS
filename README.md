@@ -65,6 +65,8 @@ https://eogarvin.github.io/
 
   https://pyastronomy.readthedocs.io
 
+- We also make extensive use of libraries such as Numpy, Matplotlib, Scikit-Learn, Keras with Tensorflow, and Photutils.
+
 - This ReadMe template was inspired by the awesome (art!)pieces of work by T. D. Gebhard (github.com/timothygebhard)
 
 
