@@ -24,7 +24,7 @@ pip install .
 Documentation is not yet available for this code, but the code has many comments the users can rely on. 
 
 Necessary ingredients to start the code: 
-- A grid of companion spectra with indications of structural parameters
+- A grid of companion spectra with indications of structural parameters (Temperature, Surface Gravity, Molecules)
 - SINFONI residual data cubes with centering information
 - A grid of templates.
 The code is able to work from there, to insert planets in noise and compile the train/test datasets. We are currently preparing a demo dataset to start the codes.
