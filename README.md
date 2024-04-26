@@ -23,6 +23,12 @@ pip install .
 
 Documentation is not yet available for this code, but the code has many comments the users can rely on. 
 
+Necessary ingredients to start the code: 
+- A grid of companion spectra with indications of structural parameters
+- SINFONI residual data cubes with centering information
+- A grid of templates.
+The code is able to work from there, to insert planets in noise and compile the train/test datasets. We are currently preparing a demo dataset to start the codes.
+
 ## 🤖 Authors and implementation of the codes
 
 All codes have been written by Emily Garvin, with additional contributions from Markus Bonse. The codes have been successfully installed, investigated and tested by Jonas Spiller.
@@ -36,9 +42,10 @@ Cross-Correlated Spectra with Convolutional Neural Networks." (Submitted at A&A)
 
 ## 🤓 Contact and Support
 
-Feel free to contact Emily O. Garvin for support with data processing, codes installation, or access to training and test data sets.
+Feel free to contact Emily for support with data preparation or processing, codes installation, or to get access to prepared training and test data sets. You can use the following means to get in touch:
 
 egarvin[at]phys.ethz.ch
+
 https://eogarvin.github.io/
 
 
