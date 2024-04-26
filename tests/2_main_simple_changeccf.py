@@ -18,7 +18,7 @@ import sys
 from ml_spectroscopy.config import path_init, global_settings
 from ml_spectroscopy.utility_functions import test_onCCF_rv0_SNR_drv
 from ml_spectroscopy.modelsML_utils import PCT_model, SNR_grid_search_drv, CNN1_model, CNN2_model
-from ml_spectroscopy.hyperparam_tuning_GA import genetic_algorithm, decode
+from ml_spectroscopy.hpt_GA import genetic_algorithm, decode
 from keras.utils.np_utils import to_categorical
 
 # Set GPU and CV fold number
