@@ -1,7 +1,7 @@
 
 <h1 align="center">🪐 MLCCS 🪐</h1>
 
-This public repository shares the MLCCS codes from the research paper: 
+This public repository shares the MLCCS codes from the following research paper: 
 
 **E. O. Garvin et al. (in prep):** "Machine Learning for Exoplanet Detection in High-Contrast Spectroscopy: Revealing Exoplanets by Leveraging Hidden Molecular Signatures in
 Cross-Correlated Spectra with Convolutional Neural Networks." (Submitted at A&A).
