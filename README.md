@@ -3,7 +3,7 @@
 
 This public repository shares the MLCCS codes from the following research paper: 
 
-**E. O. Garvin et al. (in prep):** "Machine Learning for Exoplanet Detection in High-Contrast Spectroscopy: Revealing Exoplanets by Leveraging Hidden Molecular Signatures in
+**E. O. Garvin et al. (Submitted):** "Machine Learning for Exoplanet Detection in High-Contrast Spectroscopy: Revealing Exoplanets by Leveraging Hidden Molecular Signatures in
 Cross-Correlated Spectra with Convolutional Neural Networks." (Submitted at A&A).
 
 **MLCCS** is a Python codebase to apply _**M**achine **L**earning to **C**ross-**C**orrelation for **S**pectroscopy_ , to detect exoplanets by using molecular templates, or to search for molecules on exoplanets with extra sensitivity. 
@@ -37,8 +37,8 @@ All codes have been written by Emily Garvin, with additional contributions from 
 
 If you use the codes or part of them for your work, we kindly request you to cite: 
 
-E. O. Garvin et al. (in prep). "Machine Learning for Exoplanet Detection in High-Contrast Spectroscopy: Revealing Exoplanets by Leveraging Hidden Molecular Signatures in
-Cross-Correlated Spectra with Convolutional Neural Networks." (Submitted at A&A).  
+E. O. Garvin et al. (Submitted). "Machine Learning for Exoplanet Detection in High-Contrast Spectroscopy: Revealing Exoplanets by Leveraging Hidden Molecular Signatures in
+Cross-Correlated Spectra with Convolutional Neural Networks.".  
 
 ## 🤓 Contact and Support
 
