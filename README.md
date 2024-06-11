@@ -55,7 +55,7 @@ https://eogarvin.github.io/
 
 ## 📒 The codes we used
 
-- We made use of petitRADTRANS to prepare the data and templates (but it is not necessary to have it installed for our codes to run!):
+- We made use of petitRADTRANS to prepare some of the data and templates (but it is not necessary to have it installed for our codes to run!):
 
   https://gitlab.com/mauricemolli/petitRADTRANS
   
